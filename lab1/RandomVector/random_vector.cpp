@@ -1,10 +1,8 @@
 #include "random_vector.h"
-// TODO: add any include you might require
 #include <cstdlib>
 
 using namespace std;
 RandomVector::RandomVector(int size, double max_val) { 
-  // TODO: Write your code here
    for (int i = 0; i < size; i++) {
     double random_value;
 
@@ -16,7 +14,6 @@ RandomVector::RandomVector(int size, double max_val) {
 }
 
 void RandomVector::print(){
-  // TODO: Write your code here
   int number_count = (int)vect.size();
 
   for (int i = 0; i < number_count; i++) {
@@ -27,7 +24,6 @@ void RandomVector::print(){
 }
 
 double RandomVector::mean(){
-  // TODO: Write your code here
   double total_value = 0.0;
   int number_count = (int)vect.size();
 
@@ -39,7 +35,6 @@ double RandomVector::mean(){
 }
 
 double RandomVector::max(){
-  // TODO: Write your code here
   int number_count = (int)vect.size();
   double maximum_value = vect[0];
 
@@ -53,7 +48,6 @@ double RandomVector::max(){
 }
 
 double RandomVector::min(){
-  //TODO:  Write your code here
   int number_count = (int)vect.size();
   double minimum_value = vect[0];
 
@@ -67,7 +61,6 @@ double RandomVector::min(){
 }
 
 void RandomVector::printHistogram(int bins){
-  // TODO: Write your code here
   int number_count = (int)vect.size();
 
   double minimum_value = min();

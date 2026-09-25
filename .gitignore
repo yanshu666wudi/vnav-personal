@@ -10,3 +10,7 @@
 /lab1/RandomVector/*.o
 /lab1/RandomVector/build/
 /..gitignore.swp
+/lab1/report/*.aux
+/lab1/report/*.log
+/lab1/report/*.out
+/lab1/report/*.synctex.gz
