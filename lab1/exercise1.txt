@@ -1,0 +1,6 @@
+1.Total lines: 
+19567 dante.txt
+2. Total words:
+97676 dante.txt
+3. Non-empty lines:
+14338

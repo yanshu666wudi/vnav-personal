@@ -1,0 +1,15 @@
+Operators
+1. i = 2, j = 1
+2. 输出 b
+
+References and Pointers
+1. 输出 10 10
+2. 输出 1764
+3. 输出 0
+4. 输出 0
+
+Numbers
+1. 类型容量和可表示范围不同，具体大小与平台有关
+2. float精度较低，double精度较高；i = 3
+3. signed可表示负数，unsigned只表示非负数；c = 255
+4. i = 0

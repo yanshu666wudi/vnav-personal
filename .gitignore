@@ -1,0 +1,12 @@
+/vnav-codes/
+/vnav-codes_windows_copy/
+/git_practice/
+/lab1/lab1_demo/
+/lab1/CMakeLists.txt
+/lab1/main.cpp
+/lab1/my_lib.cpp
+/lab1/my_lib.hpp
+/lab1/RandomVector/random_vector
+/lab1/RandomVector/*.o
+/lab1/RandomVector/build/
+/..gitignore.swp
