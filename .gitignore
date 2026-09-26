@@ -14,3 +14,7 @@
 /lab1/report/*.log
 /lab1/report/*.out
 /lab1/report/*.synctex.gz
+/lab2/report/*.aux
+/lab2/report/*.log
+/lab2/report/*.out
+/lab2/report/*.synctex.gz
